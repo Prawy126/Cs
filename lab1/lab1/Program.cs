@@ -17,14 +17,29 @@ double[] tab = new double[10];
 for(int i = 1; i <= tab.Length; i++)
 {
     tab[i-1] = i;
-    Console.WriteLine(i);
+    //Console.WriteLine(i);
 }
 
 //zadanie 3 tablica
 //Tablica tablica = new Tablica(tab);
-Dzialania dzialania = new Dzialania(tab);
-dzialania.Dodaj();
-dzialania.Min();
-dzialania.Max();
-dzialania.Iloczyn();
-dzialania.Srednia();
+
+//zadanie4
+//Dzialania dzialania = new Dzialania(tab);
+//dzialania.Dodaj();
+//dzialania.Min();
+//dzialania.Max();
+//dzialania.Iloczyn();
+//dzialania.Srednia();
+
+//zadanie 5
+//Wypisywanie wypisywanie = new Wypisywanie();
+//wypisywanie.WypisywanieOd20Do0();
+
+//zadanie 6
+
+//PetlaNieskonczona petlaNieskonczona = new PetlaNieskonczona();
+
+//zadanie 7
+Sortowanie sortowanie = new Sortowanie();
+sortowanie.Wypisz();
+
