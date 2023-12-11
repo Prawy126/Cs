@@ -8,35 +8,34 @@ namespace Lab3
 {
     internal class Osoba
     {
-        string firstName, lastName;
-        int age;
+        private string FirstName{ get; set;}
+        private string LastName {  get; set;}
+        private int Age { get; set;}
 
         public Osoba()
         {
         }
 
         public Osoba(string firstName, string lastName, int age)
-        {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.age = age;
+        { 
+            FirstName = firstName;
+            LastName = lastName;
+            Age = age;
             
         }
         public Osoba(string firstName, string lastName)
         {
-            this.lastName=lastName;
-            this.firstName=firstName;
+            LastName=lastName;
+            FirstName=firstName;
         }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public int Age { get; set; }
+       
 
         
 
-        public void View()
+        public virtual void View()
         {
-            Console.WriteLine("Imię: "+firstName+"\nNazwisko: "+lastName+"\nWiek: " + age);
+            Console.WriteLine("Imię: "+FirstName+"\nNazwisko: "+LastName+"\nWiek: " + Age);
         }
 
     }

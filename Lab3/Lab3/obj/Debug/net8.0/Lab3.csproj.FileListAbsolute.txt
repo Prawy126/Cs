@@ -13,3 +13,18 @@ C:\Users\micha\Desktop\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8
 C:\Users\micha\Desktop\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
 C:\Users\micha\Desktop\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
 C:\Users\micha\Desktop\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.sourcelink.json
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+C:\Users\micha\OneDrive - Uniwersytet Rzeszowski\Pulpit\strona_internetowa\nauka\C#_laby\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll

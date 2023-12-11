@@ -27,5 +27,10 @@ namespace Lab3
             this.author = autor;
             this.datePublication = datePublication;
         }
+
+        public string Title()
+        {
+            return title;
+        }
     }
 }
