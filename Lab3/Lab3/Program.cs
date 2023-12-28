@@ -12,9 +12,12 @@ class Program
         {
             MainB1(args);
         }
-        else if(true)
+        else if(false)
         {
             MainD1(args);
+        }else if (true)
+        {
+            Main2(args);
         }
     }
     static void MainA1(string[] args)
@@ -55,6 +58,17 @@ class Program
     {
         Osoba o = new Reader(new Osoba("Michał", "Pilecki"));
         o.View();
+    }
+    public static void Main2(string[] args)
+    {
+        SamochoOsobowy samochod = new SamochoOsobowy("FSO Polonez", "Polonez", "4X4", "Czarny", 1978, 21343.431f,2.4f,1.6f,4);
+        samochod.PokazInformacje();
+        Console.WriteLine("---------------------------------------");
+        Samochod samochod1 = new Samochod("Mercedes", "CLA");
+        samochod1.PokazInformacje();
+        Console.WriteLine("---------------------------------------");
+        Samochod samochod2 = new Samochod("FSO Polonez", "Polonez", "4X4", "Czarny", 1978, 21343.431f);
+        samochod2.PokazInformacje();
     }
 
 }
