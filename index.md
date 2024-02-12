@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [C#](https://github.com/Prawy126/Cs)
+# [C#](https://github.com/Prawy126/Cs) ![Rozmiar repozytorium](https://img.shields.io/github/languages/code-size/Prawy126/CS) ![Licencja](https://img.shields.io/github/license/Prawy126/CS)
 
 ## LABORATORIA:
 
